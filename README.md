@@ -1,56 +1,42 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> Description the project.
+The goal of the project is to output "Hello Microverse!" aligned center. The text of the document is written in white with a black background. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
+Live Demo is not currently available.
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+To understand the project you must have a basic knowledge about HTML and CSS.
 
 ### Install
 
+To run this project one must have Visual Studio (VS) Code installed and running.
+
 ### Usage
 
-### Run tests
-
-### Deployment
-
-
+Clone the repository and then using the live server of VS Code you can view the page.
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub:  [@Sajeelzafar](https://github.com/Sajeelzafar)
+- Twitter: [@SajeelZafar6](https://twitter.com/SajeelZafar6)
+- LinkedIn: [Sajeel Zafar](https://www.linkedin.com/in/sajeelzafar/)
 
 ## 🤝 Contributing
 
