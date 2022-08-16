@@ -9,6 +9,7 @@ The goal of the project is to output "Hello Microverse!" aligned center. The tex
 
 - HTML
 - CSS
+- Git Bash
 
 ## Live Demo (if available)
 
@@ -28,7 +29,14 @@ To run this project one must have Visual Studio (VS) Code installed and running.
 
 ### Usage
 
-Clone the repository and then using the live server of VS Code you can view the page.
+Clone and access the repository using the following commands on Git Bash:
+- git clone git@github.com:Sajeelzafar/Hello-Microverse.git
+- cd Hello-Microverse
+
+Open the directory in visual studio code by typing the following command in Git Bash:
+- code .
+
+Then using the live server of VS Code you can view the page.
 
 ## Authors
 
